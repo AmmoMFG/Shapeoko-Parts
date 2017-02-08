@@ -6,3 +6,6 @@ These boards are intended to go on top of the existing board that makes up the b
 
 For ease of drawing, this board is technically rotated 90deg, so the long axis (22") will make up the Y axis of your ShapeOko, the last set of holes that can't be drilled due to the traverse limitation of the shapeoko can either be omitted, or the part may be indexed and a single line of holes can be run. 
 
+If you do not want to damage the base of your shapeoko, there is some over-travel in the toolpaths of the existing C2D file, that will drill .010" beyond the depth of the stock. I suggest putting a 1/8" piece of MDF as a backer, and then being sure to securely clamp the material down on all sides (provided it does not interfere with the movement of the head).
+
+This spoil/wasteboard can then be clamped permanently, or you may wish to drill into the base of the shapeoko and put in more threaded inserts and attach it in that manner. (this is what I have done)

@@ -1,0 +1,1212 @@
+{
+    "CIRCLE_OBJECTS": [
+        {
+            "id": "{6c153a20-7f4f-473a-a7d2-c64c1ca85f96}",
+            "position": [
+                125.93947759270779,
+                272.32689129745307
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{8182f129-4e0e-4398-baa1-ab4132fa8ef9}",
+            "position": [
+                379.93914058658021,
+                18.326554291773011
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{107d960d-be1e-4182-938c-0b09b6204a66}",
+            "position": [
+                329.13914058662499,
+                18.326621692953736
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{b52c4575-323d-44f3-9687-0f6f0ade04ca}",
+            "position": [
+                278.33914058666966,
+                18.326689094134494
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{8757f369-57df-488c-be36-40d85c4fea1f}",
+            "position": [
+                227.5391405867145,
+                18.326756495315252
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{005be39c-1bf4-4306-a4f3-7017ea5300e3}",
+            "position": [
+                176.73914058675922,
+                18.326823896496009
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{cbf746bd-08a5-49f7-b57a-bf9d909fa4e0}",
+            "position": [
+                125.93914058680403,
+                18.326891297676767
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{28d562a7-83f3-4728-b1e8-0299baf4202e}",
+            "position": [
+                75.139140586848725,
+                18.326958698857496
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{a060fb28-cdfc-478c-9d18-8adb2ce226ad}",
+            "position": [
+                379.93967979602627,
+                424.72655429141514
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{49beca6c-bafb-4d42-9a72-8f52b82a9e82}",
+            "position": [
+                379.93961239484548,
+                373.92655429145998
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{8a79eda5-91ec-400e-babc-e01d0e090ca4}",
+            "position": [
+                379.93954499366475,
+                323.12655429150459
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{08894983-f145-4b8b-a008-9ac0485fe5da}",
+            "position": [
+                379.93947759248402,
+                272.32655429154931
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{cfa1cb69-b8b5-4e4a-afc2-b7a481e5dfd6}",
+            "position": [
+                379.93941019130324,
+                221.52655429159415
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{1948a605-7079-4391-9fb9-c389421e06d3}",
+            "position": [
+                379.93934279012251,
+                170.72655429163888
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{38f9736a-bc5d-464d-9804-26f62a1965de}",
+            "position": [
+                379.93927538894178,
+                119.9265542916836
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{cc87abe9-7a46-4879-b943-4397fe302f3a}",
+            "position": [
+                379.93920798776099,
+                69.126554291728354
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{d8387b9e-b147-4bbd-b295-5e38c6e166e8}",
+            "position": [
+                329.13967979607099,
+                424.72662169259593
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{4b9d25a1-4123-446e-bc4c-2a8364b24143}",
+            "position": [
+                329.13961239489026,
+                373.92662169264065
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{c34fe681-da51-4650-a399-8a189f183124}",
+            "position": [
+                329.13954499370948,
+                323.12662169268538
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{3d539b15-3932-4f04-b104-79170bcbd5fb}",
+            "position": [
+                329.13947759252875,
+                272.3266216927301
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{9f6e5dc1-1f0d-4811-a31b-87ae1b2b24c7}",
+            "position": [
+                329.13941019134796,
+                221.52662169277488
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{a383e23e-5508-4b67-b90c-c47cd9da31c0}",
+            "position": [
+                329.13934279016723,
+                170.72662169281966
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{6ad739ea-fb5d-4348-b0b7-21a4036c7f80}",
+            "position": [
+                329.1392753889865,
+                119.92662169286436
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{a1b0f84c-6e60-4778-a0d3-af5f576c5958}",
+            "position": [
+                329.13920798780572,
+                69.126621692909083
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{587df92c-0a0b-4d19-a8d4-a8303ce3c8e1}",
+            "position": [
+                278.33967979611566,
+                424.7266890937766
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{1dfdfc95-3a62-443e-93f1-3b36d50021f6}",
+            "position": [
+                278.33961239493493,
+                373.92668909382144
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{135d83eb-722e-42c5-9dc9-ee704bed0759}",
+            "position": [
+                278.33954499375415,
+                323.12668909386605
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{95afa4fc-adc0-44c6-b365-63439e860149}",
+            "position": [
+                278.33947759257342,
+                272.32668909391083
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{a77a70d3-374c-4074-8209-81630f35b3ae}",
+            "position": [
+                278.33941019139269,
+                221.52668909395567
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{cdf7730a-7ac8-48a1-843f-fcc312ece58c}",
+            "position": [
+                278.3393427902119,
+                170.72668909400039
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{aee1e21c-59fb-4e20-81d2-2bf4ead1db8e}",
+            "position": [
+                278.33927538903117,
+                119.92668909404509
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{6a5239e7-4c0a-4b3b-946b-5e2a45138918}",
+            "position": [
+                278.33920798785044,
+                69.126689094089841
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{bcde2211-0b39-4d1f-bc12-6702f6928439}",
+            "position": [
+                227.53967979616053,
+                424.72675649495739
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{33b916e1-69d1-42b5-945e-4222db9c3de7}",
+            "position": [
+                227.53961239497977,
+                373.92675649500222
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{bd358f8c-6f23-4f3f-aabc-a35e73dcc318}",
+            "position": [
+                227.53954499379901,
+                323.12675649504683
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{f8e958c4-e2d3-4016-9f46-384fccd3e598}",
+            "position": [
+                227.53947759261825,
+                272.32675649509156
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{576e06f3-faeb-410f-8152-bd5151b8684a}",
+            "position": [
+                227.53941019143753,
+                221.5267564951364
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{840ba03a-5eaf-40e2-9002-6f932336f395}",
+            "position": [
+                227.53934279025677,
+                170.72675649518118
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{6077b265-5f17-4751-9131-66ac7468de91}",
+            "position": [
+                227.53927538907601,
+                119.92675649522585
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{754969b8-6518-4734-acec-45a6862b8b83}",
+            "position": [
+                227.53920798789525,
+                69.126756495270598
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{8ed74417-7710-476b-908d-81f5564beef0}",
+            "position": [
+                176.73967979620522,
+                424.72682389613817
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{31e1d8c5-2e87-4244-8369-c24e8027a69f}",
+            "position": [
+                176.73961239502447,
+                373.9268238961829
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{52ca9497-b33c-438f-91a7-ded686adb7ca}",
+            "position": [
+                176.73954499384371,
+                323.12682389622762
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{de303dd2-05dd-4b13-84d2-6afc1548fadc}",
+            "position": [
+                176.73947759266298,
+                272.32682389627234
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{9374965e-ced2-40d7-b0d7-34b8c4587821}",
+            "position": [
+                176.73941019148222,
+                221.52682389631713
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{f79a7dab-ffa3-490c-859c-54cc6a066f34}",
+            "position": [
+                176.73934279030146,
+                170.72682389636191
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{b13509cb-e029-4505-8adf-b952d96f00b2}",
+            "position": [
+                176.73927538912071,
+                119.9268238964066
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{6ce5cf01-42c4-474f-9c73-350d6534ebe8}",
+            "position": [
+                176.73920798793995,
+                69.126823896451356
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{205eb47f-03c1-46f9-be94-03c6f69825b9}",
+            "position": [
+                125.93967979625,
+                424.72689129731896
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{54c9e16f-f1f4-4c15-b60f-5f0293b4ed25}",
+            "position": [
+                125.93961239506928,
+                373.92689129736368
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{54f6ae1a-1402-40f5-bc10-82b4e4d417b4}",
+            "position": [
+                125.93954499388855,
+                323.12689129740829
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{efa6f4ab-f7ac-49c4-b71d-01e0fa4168ae}",
+            "position": [
+                125.93941019152703,
+                221.52689129749791
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{12055e2f-904e-491a-967b-35801f6b2bfa}",
+            "position": [
+                125.9393427903463,
+                170.72689129754264
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{0bd4a54d-1dae-428b-a60d-ab8bfd4c22a9}",
+            "position": [
+                125.93927538916552,
+                119.92689129758736
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{5cbd0e3d-ddc3-4da3-85db-3cd3f9a4a831}",
+            "position": [
+                125.93920798798479,
+                69.126891297632113
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{de0110f0-82cc-4fe1-9e5e-2975aa1af557}",
+            "position": [
+                75.139679796294729,
+                424.72695869849963
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{fb61e2fc-6265-484e-bb94-79028155ce91}",
+            "position": [
+                75.139612395114,
+                373.92695869854447
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{91d2577f-474d-4e74-b605-bf1f8d92ddb7}",
+            "position": [
+                75.139544993933242,
+                323.12695869858908
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{7ab5ddb6-5a43-414d-9bd7-2febd35ea6bc}",
+            "position": [
+                75.139477592752485,
+                272.3269586986338
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{a0227022-ca21-4761-8299-8094a4fa43ab}",
+            "position": [
+                75.139410191571756,
+                221.52695869867864
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{2bda0c50-f780-4ede-8e57-3c2aad7b73a2}",
+            "position": [
+                75.139342790390998,
+                170.72695869872342
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{15b6e10d-8efd-4dc9-b57f-b31413329fc9}",
+            "position": [
+                75.139275389210241,
+                119.92695869876809
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{72f0ba49-b37d-4db5-9c75-0921c2afc645}",
+            "position": [
+                75.139207988029483,
+                69.126958698812842
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{2a009462-100c-4acb-8c5d-e63ecbfa82b0}",
+            "position": [
+                24.339679796339425,
+                424.72702609968042
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{f8c51abd-ea1b-4c52-b63d-759df8220b23}",
+            "position": [
+                24.339612395158639,
+                373.92702609972514
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{d5e0bcba-234d-4a24-88f8-2b5476ff85ac}",
+            "position": [
+                24.33954499397791,
+                323.12702609976986
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{3d9df7e6-c1fc-47aa-9b2d-3a6d1c5b32d2}",
+            "position": [
+                24.339477592797152,
+                272.32702609981459
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{9303a972-ec3d-44f8-abef-cf794df97bd9}",
+            "position": [
+                24.339410191616423,
+                221.52702609985943
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{96d07b94-f079-4533-b68c-75fae8a3cf60}",
+            "position": [
+                24.339342790435666,
+                170.72702609990415
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{b7f78993-cdde-4d1a-a99f-dc7dcacf3f39}",
+            "position": [
+                24.339275389254908,
+                119.92702609994888
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{c57c7e78-8ac8-4cd9-8e14-ce90e47463a3}",
+            "position": [
+                24.339207988074151,
+                69.127026099993628
+            ],
+            "radius": 4
+        },
+        {
+            "id": "{8fbb23d8-3e12-4d58-9023-64d902736528}",
+            "position": [
+                24.339140586893393,
+                18.327026100038225
+            ],
+            "radius": 4
+        }
+    ],
+    "CURVE_OBJECTS": [
+        {
+            "control_point_1": [
+                [
+                    471.14999999999998,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    416.75
+                ]
+            ],
+            "control_point_2": [
+                [
+                    471.14999999999998,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    416.75
+                ]
+            ],
+            "id": "{6b73a01a-7b1c-4535-865a-00f00b01031d}",
+            "point_type": [
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    471.14999999999998,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    416.75
+                ],
+                [
+                    57.149999999999999,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    31.75
+                ],
+                [
+                    471.14999999999998,
+                    416.75
+                ]
+            ],
+            "position": [
+                -64.010601617012952,
+                -11.623207150675583
+            ],
+            "rotation": 90
+        },
+        {
+            "control_point_1": [
+                [
+                    0,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    431.80000000000001
+                ]
+            ],
+            "control_point_2": [
+                [
+                    0,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    431.80000000000001
+                ]
+            ],
+            "id": "{2af7e311-6db1-4efd-a073-f1e6ef020b66}",
+            "point_type": [
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    0,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    431.80000000000001
+                ],
+                [
+                    558.79999999999995,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    431.80000000000001
+                ]
+            ],
+            "position": [
+                -70.91058138339811,
+                11.976781770573567
+            ],
+            "rotation": 90
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAA==",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": false,
+        "HEIGHT": 406.39999999999998,
+        "MACHINE": "Shapeoko 3",
+        "MATERIAL": "Wax",
+        "RETRACT": 12,
+        "THICKNESS": 19.049999999999997,
+        "WIDTH": 406.39999999999998,
+        "ZERO_X": 0,
+        "ZERO_Y": 0,
+        "ZERO_Z": 0,
+        "grid_enabled": true,
+        "grid_spacing": 6.3499999999999996,
+        "version": 1
+    },
+    "RECT_OBJECTS": [
+    ],
+    "REGULAR_POLYGON_OBJECTS": [
+    ],
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_OBJECTS": [
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 3",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{fc2807db-8bc3-464f-9944-bf9ad8cbea58}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 4",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{aad7902e-d298-446f-a638-898eba6e1857}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 5",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{843d99ad-f4bd-4ff1-a569-a1759b9e8085}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 6",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{a05ab29b-6774-43f1-981e-0df7778588c8}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 7",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{1c7f93b2-6cb7-4aef-aca9-764503e3c54e}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 8",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{4a108583-a0a8-4f71-adff-02f97a19b99f}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 9",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{16bc71b1-307c-4461-b613-48471ffb6103}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 10",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{56cbab16-e81d-4694-8765-3312c7b654e0}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 11",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{7896178a-66d2-492a-a064-b8716146d8db}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 12",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{f8e1aa10-2eed-4d0c-a27e-800424632ebe}",
+            "vcarve": false
+        },
+        {
+            "automatic_parameters": true,
+            "contours": [
+            ],
+            "enabled": true,
+            "end_depth": -19.303999999999998,
+            "name": "Toolpath 13",
+            "ofset_dir": -1,
+            "speeds": {
+                "feedrate": 1905,
+                "plungerate": 952.5,
+                "rpm": 7499
+            },
+            "start_depth": 0,
+            "stepdown": 6.3324099722991694,
+            "stepover": 2.8574999999999999,
+            "tolerance": 0.01,
+            "tool": {
+                "angle": 0,
+                "corner_radius": 0,
+                "diameter": 6.3499999999999996,
+                "display_mm": false,
+                "flutes": 2,
+                "length": 9.5249999999999986,
+                "name": "",
+                "number": 201,
+                "overall_length": 38.099999999999994,
+                "uuid": "{00000000-0000-0000-0000-000000000201}"
+            },
+            "uuid": "{bc130e91-3f54-4988-9198-85c13b31cad2}",
+            "vcarve": false
+        }
+    ],
+    "toolpath_links": [
+        {
+            "links": [
+                "{a05ab29b-6774-43f1-981e-0df7778588c8}"
+            ],
+            "uuid": "{005be39c-1bf4-4306-a4f3-7017ea5300e3}"
+        },
+        {
+            "links": [
+                "{16bc71b1-307c-4461-b613-48471ffb6103}"
+            ],
+            "uuid": "{107d960d-be1e-4182-938c-0b09b6204a66}"
+        },
+        {
+            "links": [
+                "{aad7902e-d298-446f-a638-898eba6e1857}"
+            ],
+            "uuid": "{28d562a7-83f3-4728-b1e8-0299baf4202e}"
+        },
+        {
+            "links": [
+                "{4d304343-6907-4ff8-9ad0-182e7ae424ca}"
+            ],
+            "uuid": "{3c29a41a-53b4-46dc-9fb8-7f766ab1ee66}"
+        },
+        {
+            "links": [
+                "{4d304343-6907-4ff8-9ad0-182e7ae424ca}"
+            ],
+            "uuid": "{44977b8c-fd32-4050-a28e-1fd0ddf2e798}"
+        },
+        {
+            "links": [
+                "{bc130e91-3f54-4988-9198-85c13b31cad2}"
+            ],
+            "uuid": "{6a5239e7-4c0a-4b3b-946b-5e2a45138918}"
+        },
+        {
+            "links": [
+                "{56cbab16-e81d-4694-8765-3312c7b654e0}"
+            ],
+            "uuid": "{8182f129-4e0e-4398-baa1-ab4132fa8ef9}"
+        },
+        {
+            "links": [
+                "{1c7f93b2-6cb7-4aef-aca9-764503e3c54e}"
+            ],
+            "uuid": "{8757f369-57df-488c-be36-40d85c4fea1f}"
+        },
+        {
+            "links": [
+                "{923d190b-6158-4a8e-a855-498f4d2828b5}"
+            ],
+            "uuid": "{88bb1646-8e1b-40c8-bf36-f34c6ee71811}"
+        },
+        {
+            "links": [
+                "{fc2807db-8bc3-464f-9944-bf9ad8cbea58}"
+            ],
+            "uuid": "{8fbb23d8-3e12-4d58-9023-64d902736528}"
+        },
+        {
+            "links": [
+                "{f8e1aa10-2eed-4d0c-a27e-800424632ebe}"
+            ],
+            "uuid": "{a1b0f84c-6e60-4778-a0d3-af5f576c5958}"
+        },
+        {
+            "links": [
+                "{4a108583-a0a8-4f71-adff-02f97a19b99f}"
+            ],
+            "uuid": "{b52c4575-323d-44f3-9687-0f6f0ade04ca}"
+        },
+        {
+            "links": [
+                "{843d99ad-f4bd-4ff1-a569-a1759b9e8085}"
+            ],
+            "uuid": "{cbf746bd-08a5-49f7-b57a-bf9d909fa4e0}"
+        },
+        {
+            "links": [
+                "{7896178a-66d2-492a-a064-b8716146d8db}"
+            ],
+            "uuid": "{cc87abe9-7a46-4879-b943-4397fe302f3a}"
+        }
+    ]
+}
